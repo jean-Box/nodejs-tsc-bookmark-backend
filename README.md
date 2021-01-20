@@ -34,6 +34,7 @@ La récupération des propriétés d’un lien référencé sont obtenues en uti
 
 ## TODO
 
+- gestion de la pagination
 - gestion relationnel de la BDD je n'ai pas réussis à fair 3 table :une common, une vimeo et une autre flickr, j'ai passé un peu de temps dessus j'ai préféré avancer.
 - un début de gestion d'erreur est en place, reste a paufiner
 - des Test, j'ai initier quelques TU
